@@ -4,7 +4,7 @@ Built an interactive dashboard using JavaScript and Plotly.js to experiment with
 
 # Belly Button Biodiversity Dashboard
 
-You can visit the Plotly Belly button Biodiversity dashboard here.
+You can visit the Plotly Belly button Biodiversity dashboard here file:///C:/Users/Ariana%20Davis/Desktop/Homework/Plotly_Belly_Button_Biodiversity/index.html.
 
 # Project Overview
 
